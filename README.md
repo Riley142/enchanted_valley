@@ -1,6 +1,6 @@
 # Enchanted Valley
 
-Text based game in Python inspired by Adventure
-![](img/evalley.png)
+###Text based game in Python inspired by Adventure
+![](img/evalley.gif)
 
 
